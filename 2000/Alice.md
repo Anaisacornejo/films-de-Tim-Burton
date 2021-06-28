@@ -1,4 +1,4 @@
-![](./Alice.jpg)
+![](../Alice.jpg)
 
 # Alice in Wonderland #
 ## 2010 ##
