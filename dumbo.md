@@ -1,4 +1,4 @@
-![](image:./dumbo.png)
+![](./dumbo.png)
 
 # Dumbo #
 ## 2019 ##
