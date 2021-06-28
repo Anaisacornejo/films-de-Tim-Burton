@@ -1,4 +1,4 @@
-![](./thenightmare.png)
+![](./thenightmare.jpg)
 
 # Trouver The Nightmare Before Christmas #
 ## 1993 ##
